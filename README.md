@@ -1,5 +1,5 @@
 # Excel-Portfolio-with-a-PowerBI-dashboard
-This repository contains my Excel Portfolio Project which is a detailed analysis of more than 44,000 government schools in the province of Punjab, Pakistan. Various important insights were calculated and visualized on a PowerBi dashboard.
+This repository contains my Excel Portfolio Project which is a detailed analysis of more than 44,000 government schools in the province of Punjab, Pakistan. Various important insights were calculated and visualized on a PowerBi dashboard. The Zip File containing all the files can be found here https://drive.google.com/drive/folders/15Oi_aDAcz095npRMImW0WOjSOOKwLQNB?usp=sharing
 
 # Excel Portfolio Project: Educational Landscape Analysis in Punjab, Pakistan
 
